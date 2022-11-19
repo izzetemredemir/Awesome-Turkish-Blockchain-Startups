@@ -9,4 +9,5 @@ List of Turkish startups work on blockchain and cryptocurrency fields
 | ![MVjpi4p-_100x100](https://avatars.githubusercontent.com/u/63713834?s=200&v=4) </br> **BiLira** | Stablecoin that is backed by Turkish Lira </br> **[bilira.co](https://bilira.co/)**| 2019 | [bilira.co/kariyer](https://www.bilira.co/tr/kariyer) | İstanbul |Yes | No (Hybrid)|
 | ![alt text](https://pbs.twimg.com/profile_images/1486017327489761282/ID6SkVRp_400x400.jpg) </br> **Go+ Security** | Web3 Security Infrastructure </br> **[gopluslabs.io](https://gopluslabs.io/)**| 2022 | [Go+SecTR](https://twitter.com/GoPlusSecTR)| Remote | No | Yes |
 | ![MVjpi4p-_100x100](https://avatars.githubusercontent.com/u/55463529?s=200&v=4) </br> **MonoPayments** | The no code platform that empowers fintechs to create fintech </br> **[monopayments.com](https://monopayments.com/)**| 2020 | [web3@monopayments](mailto:web3@monopayments.com) | İstanbul |No | Yes|
+| ![MVjpi4p-_100x100](https://datsproject.io/logo.png) </br> **Datsproject** | Cyber Security  </br> **[datsproject.io](https://datsproject.io/)**| 2022 | [info@datsproject.io](mailto:info@datsproject.io) | İstanbul |No | Yes|
 
