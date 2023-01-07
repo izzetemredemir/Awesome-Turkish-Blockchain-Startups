@@ -14,3 +14,5 @@ List of Turkish startups work on blockchain and cryptocurrency fields
 | ![MVjpi4p-_100x100](https://notus.network/favicon.ico) </br> **Notus Network** | Layer 1 Blockchain Platform </br> **[notus.network](https://notus.network)**| 2020 | [hello@notuslabs.org](mailto:hello@notuslabs.org) | Istanbul | Yes | No (Hybrid) |
 ![hon](https://user-images.githubusercontent.com/11755605/203757327-2ace17e6-bd50-4e99-90f7-b7710728a29a.jpeg) </br> **Heroes of NFT** | Avalanche native crypto gaming project </br> **[heroesofnft.com](https://www.heroesofnft.com/)**| 2021 | [marketing@heroesofnft.com](mailto:marketing@heroesofnft.com) | Ankara | No | Yes  |
 ![cruxia](https://cruxia.io/favicon.ico) </br> **Cruxia** | Buidling Future with Software </br> **[cruxia.io](https://cruxia.io/)**| 2022 | [crafters@cruxia.io](mailto:crafters@cruxia.io) | Ankara/Antalya | Yes | Yes |
+| ![MVjpi4p-_100x100](https://pbs.twimg.com/profile_images/1598708563865632768/wzOEEcnt_400x400.jpg) </br> **Fuel Nomen** | Blockchain Name System of Fuel Network </br> **[nomen.sh](https://nomen.sh)**| 2022 | [hello@nomen.sh](mailto:hello@nomen.sh) | İstanbul | No | Yes |
+
