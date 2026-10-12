@@ -1,6 +1,9 @@
 # Awesome-Turkish-Blockchain-Startups
 
 List of Turkish startups work on blockchain and cryptocurrency fields
+
+Last checked: October 2026
+
 | Name | Product & Website |Year Founded| Careers Page| Location| Internship| Remote Work|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![MVjpi4p-_100x100](https://user-images.githubusercontent.com/11755605/199733571-7cb1e55d-c135-4669-b6ab-180e43d6b81d.jpg) </br> **Lytera** | Research and Data Analytics Platform for Web3. </br> **[lytera.io](https://lytera.io/)**| 2022 | [info@lytera.io](mailto:info@lytera.io) | İstanbul/Ankara |NO | Yes|
@@ -8,11 +11,21 @@ List of Turkish startups work on blockchain and cryptocurrency fields
 | ![MVjpi4p-_100x100](https://avatars.githubusercontent.com/u/112274547?s=200&v=4) </br> **Chainway** | Web3 Venture Builder </br> **[chainway.xyz](https://chainway.xyz/)**| 2022 | [info@chainway.xyz](mailto:info@chainway.xyz) | İstanbul |No | Yes|
 | ![MVjpi4p-_100x100](https://avatars.githubusercontent.com/u/100074307?s=200&v=4) </br> **KimlikDAO** | Self-custody ID tokens </br> **[kimlikdao.org](https://kimlikdao.org/)**| 2022 | [join.kimlikdao.org](https://join.kimlikdao.org) | Remote |Yes | Yes|
 | ![MVjpi4p-_100x100](https://avatars.githubusercontent.com/u/63713834?s=200&v=4) </br> **BiLira** | Stablecoin that is backed by Turkish Lira </br> **[bilira.co](https://bilira.co/)**| 2019 | [bilira.co/kariyer](https://www.bilira.co/tr/kariyer) | İstanbul |Yes | No (Hybrid)|
-| ![alt text](https://pbs.twimg.com/profile_images/1486017327489761282/ID6SkVRp_400x400.jpg) </br> **Go+ Security** | Web3 Security Infrastructure </br> **[gopluslabs.io](https://gopluslabs.io/)**| 2022 | [Go+SecTR](https://twitter.com/GoPlusSecTR)| Remote | No | Yes |
+| **Go+ Security** | Web3 Security Infrastructure </br> **[gopluslabs.io](https://gopluslabs.io/)**| 2022 | [Go+SecTR](https://twitter.com/GoPlusSecTR)| Remote | No | Yes |
 | ![MVjpi4p-_100x100](https://avatars.githubusercontent.com/u/55463529?s=200&v=4) </br> **MonoPayments** | The no code platform that empowers fintechs to create fintech </br> **[monopayments.com](https://monopayments.com/)**| 2020 | [web3@monopayments](mailto:web3@monopayments.com) | İstanbul |No | Yes|
-| ![MVjpi4p-_100x100](https://datsproject.io/logo.png) </br> **Datsproject** | Cyber Security </br> **[datsproject.io](https://datsproject.io/)**| 2021 | [hello@datsproject.io](mailto:hello@datsproject.io) | İstanbul |No | Yes|
+| **Datsproject** | Cyber Security </br> **[datsproject.io](https://datsproject.io/)**| 2021 | [hello@datsproject.io](mailto:hello@datsproject.io) | İstanbul |No | Yes|
 | ![MVjpi4p-_100x100](https://notus.network/favicon.ico) </br> **Notus Network** | Layer 1 Blockchain Platform </br> **[notus.network](https://notus.network)**| 2020 | [hello@notuslabs.org](mailto:hello@notuslabs.org) | Istanbul | Yes | No (Hybrid) |
 ![hon](https://user-images.githubusercontent.com/11755605/203757327-2ace17e6-bd50-4e99-90f7-b7710728a29a.jpeg) </br> **Heroes of NFT** | Avalanche native crypto gaming project </br> **[heroesofnft.com](https://www.heroesofnft.com/)**| 2021 | [marketing@heroesofnft.com](mailto:marketing@heroesofnft.com) | Ankara | No | Yes  |
 ![cruxia](https://cruxia.io/favicon.ico) </br> **Cruxia** | Buidling Future with Software </br> **[cruxia.io](https://cruxia.io/)**| 2022 | [crafters@cruxia.io](mailto:crafters@cruxia.io) | Ankara/Antalya | Yes | Yes |
 | ![MVjpi4p-_100x100](https://pbs.twimg.com/profile_images/1598708563865632768/wzOEEcnt_400x400.jpg) </br> **Fuel Nomen** | Blockchain Name System of Fuel Network </br> **[nomen.sh](https://nomen.sh)**| 2022 | [hello@nomen.sh](mailto:hello@nomen.sh) | İstanbul | No | Yes |
 
+## Contributing
+
+Contributions are welcome. To add a startup, fix outdated details or report a
+link that no longer works, open a pull request that edits `README.md` and keeps
+the existing table format. Please include the startup's official website.
+
+## License
+
+This list is dedicated to the public domain under
+[CC0 1.0 Universal](LICENSE).
