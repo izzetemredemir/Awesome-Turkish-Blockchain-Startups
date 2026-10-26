@@ -18,6 +18,7 @@ Last checked: October 2026
 ![hon](https://user-images.githubusercontent.com/11755605/203757327-2ace17e6-bd50-4e99-90f7-b7710728a29a.jpeg) </br> **Heroes of NFT** | Avalanche native crypto gaming project </br> **[heroesofnft.com](https://www.heroesofnft.com/)**| 2021 | [marketing@heroesofnft.com](mailto:marketing@heroesofnft.com) | Ankara | No | Yes  |
 ![cruxia](https://cruxia.io/favicon.ico) </br> **Cruxia** | Buidling Future with Software </br> **[cruxia.io](https://cruxia.io/)**| 2022 | [crafters@cruxia.io](mailto:crafters@cruxia.io) | Ankara/Antalya | Yes | Yes |
 | ![MVjpi4p-_100x100](https://pbs.twimg.com/profile_images/1598708563865632768/wzOEEcnt_400x400.jpg) </br> **Fuel Nomen** | Blockchain Name System of Fuel Network </br> **[nomen.sh](https://nomen.sh)**| 2022 | [hello@nomen.sh](mailto:hello@nomen.sh) | İstanbul | No | Yes |
+| ![BitPolaris](https://bitpolaris.com/icon-192.png) </br> **BitPolaris** | Crypto infrastructure software: exchange, stablecoin payments, wallet, custody and proof of reserves </br> **[bitpolaris.com](https://bitpolaris.com/)**| 2016 | [hello@bitpolaris.com](mailto:hello@bitpolaris.com) | İstanbul | - | - |
 
 ## Contributing
 
